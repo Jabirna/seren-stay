@@ -62,7 +62,7 @@ nav ul li a {
     background-image: url(picture/11.jpg); /* Replace with your image URL */    background-size: cover;
     background-position: center;
     background-image: auto;
-    border-radius: 1.5%;
+    border-radius: 2px;
     text-align: center;
     padding: 100px 0;
     color: #fff;
